@@ -11,6 +11,7 @@ National Institute of Technology, Silchar (NIT Silchar).
 - Graph Neural Networks (GNNs)
 
 ### 📄 Download My Resume
-📄 [Download Resume (PDF)](Saurabh_Resume .pdf)
+📄 [Download Resume (PDF)](Saurabh_Resume.pdf)
+
 
 
